@@ -7,6 +7,18 @@
 	background-color: #e2edff;
 }
 
+.gallery-img {
+	width: 100%;
+}
+
+#gallery .row > * {
+	padding: 0;
+}
+
+footer a {
+	text-decoration: none;
+}
+
 section {
 	padding-top: 5rem;
 }
